@@ -1,0 +1,273 @@
+{
+  "openings": [
+    "Trzeba powiedzieć jasno: ",
+    "Jak powiedział przeciętny tester Jakub Mortka, ",
+    "Proszę mnie dobrze zrozumieć, ",
+    "Ja chciałem wam przypomnieć, że ",
+    "Niech management nie ma złudzeń, ",
+    "Powiedzmy to wyraźnie: "
+  ],
+  "subjects": [
+    {
+      "phrase": "studenci w siso ",
+      "number": "plural",
+      "gender": "male"
+    },
+    {
+      "phrase": "studenci z washingtona ",
+      "number": "plural",
+      "gender": "male"
+    },
+    {
+      "phrase": "ludzie z 5G ",
+      "number": "plural",
+      "gender": "male"
+    },
+    {
+      "phrase": "Jakub Mortka ",
+      "number": "singular",
+      "gender": "male"
+    },
+    {
+      "phrase": "Masa Stolarska ",
+      "number": "singular",
+      "gender": "female"
+    },
+    {
+      "phrase": "Cichański Mikołaj ",
+      "number": "singular",
+      "gender": "male"
+    },
+    {
+      "phrase": "Ewa Heimerdinger ",
+      "number": "singular",
+      "gender": "female"
+    },
+    {
+      "phrase": "Radżiw Suri ",
+      "number": "singular",
+      "gender": "male"
+    },
+    {
+      "phrase": "Laski z operations ",
+      "number": "plural",
+      "gender": "female"
+    },
+    {
+      "phrase": "Labowcy ",
+      "number": "plural",
+      "gender": "male"
+    },
+    {
+      "phrase": "Product ownerzy ",
+      "number": "plural",
+      "gender": "male"
+    },
+    {
+      "phrase": "Integratorzy radiów ",
+      "number": "plural",
+      "gender": "male"
+    },
+    {
+      "phrase": "Wszyscy z Gildii em el ",
+      "number": "plural",
+      "gender": "male"
+    },
+    {
+      "phrase": "Tieto ",
+      "number": "singular",
+      "gender": "neutral"
+    }
+  ],
+  "fillers": [
+    "w ramach swojej pracy ",
+    "całkowicie bezużytecznie ",
+    "w każdy weekend ",
+    "nie przeciążając się zbytnio ",
+    "nie zważając na przeciwności ",
+    "celowo i świadomie ",
+    "od czasów spadku na giełdzie "
+  ],
+  "actions": [
+    {
+      "phrase": "{} mleko studentom ",
+      "singular": {
+        "male": "podpierdala",
+        "female": "podpierdala",
+        "neutral": "podpierdala"
+      },
+      "plural": {
+        "male": "podpierdalają",
+        "female": "podpierdalają"
+      }
+    },
+    {
+      "phrase": "{} na skargę do managera ",
+      "singular": {
+        "male": "chodzi",
+        "female": "chodzi",
+        "neutral": "chodzi"
+      },
+      "plural": {
+        "male": "chodzą",
+        "female": "chodzą"
+      }
+    },
+    {
+      "phrase": "{} wyniki swojej pracy ",
+      "singular": {
+        "male": "naciąga",
+        "female": "naciąga",
+        "neutral": "naciąga"
+      },
+      "plural": {
+        "male": "naciągają",
+        "female": "naciągają"
+      }
+    },
+    {
+      "phrase": "{} nadgodziny ",
+      "singular": {
+        "male": "robi",
+        "female": "robi",
+        "neutral": "robi"
+      },
+      "plural": {
+        "male": "robią",
+        "female": "robią"
+      }
+    },
+    {
+      "phrase": "{} 8 godzin pracy ",
+      "singular": {
+        "male": "odbębnia",
+        "female": "odbębnia",
+        "neutral": "odbębnia"
+      },
+      "plural": {
+        "male": "odbębniają",
+        "female": "odbębniają"
+      }
+    },
+    {
+      "phrase": "{} przenieść się do tieto ",
+      "singular": {
+        "male": "chce",
+        "female": "chce",
+        "neutral": "chce"
+      },
+      "plural": {
+        "male": "chcą",
+        "female": "chcą"
+      }
+    },
+    {
+      "phrase": "{} pracę innych ",
+      "singular": {
+        "male": "overlapuje",
+        "female": "overlapuje",
+        "neutral": "overlapuje"
+      },
+      "plural": {
+        "male": "overlapują",
+        "female": "overlapują"
+      }
+    }
+
+  ],
+  "reasons": [
+    {
+      "phrase": "bo {}, że coś {} z tego {}, ",
+      "singular": {
+        "male": ["myśli", "będzie", "miał"],
+        "female": ["myśli", "będzie", "miała"],
+        "neutral": ["myśli", "będzie", "miało"]
+      },
+      "plural": {
+        "male": ["myślą", "będą", "mieli"],
+        "female": ["myślą", "będą", "miały"]
+      }
+    },
+    {
+      "phrase": "bo {} stworzyć coś działającego, ",
+      "singular": {
+        "male": "chce",
+        "female": "chce",
+        "neutral": "chce"
+      },
+      "plural": {
+        "male": "chcą",
+        "female": "chcą"
+      }
+    },
+    {
+      "phrase": "bo {} z góry, ",
+      "singular": {
+        "male": "zmuszają go",
+        "female": "zmuszają ją",
+        "neutral": "zmuszają je"
+      },
+      "plural": {
+        "male": "zmuszają ich",
+        "female": "zmuszają je"
+      }
+    },
+    {
+      "phrase": "bo więcej nie {}, ",
+      "singular": {
+        "male": "musi",
+        "female": "musi",
+        "neutral": "musi"
+      },
+      "plural": {
+        "male": "muszą",
+        "female": "muszą"
+      }
+    },
+    {
+      "phrase": "bo {}, że długo nie {}, ",
+      "singular": {
+        "male": ["wie", "pociągnie"],
+        "female": ["wie", "pociągnie"],
+        "neutral": ["wie", "pociągnie"]
+      },
+      "plural": {
+        "male": ["wiedzą", "pociągną"],
+        "female": ["wiedzą", "pociągną"]
+      }
+    },
+    "bo słupki się muszą zgadzać, ",
+    "bo robota musi być zrobiona, "
+  ],
+  "endings": [
+    {
+      "phrase": "ale {} na porażkę",
+      "singular": {
+        "male": "jest skazany",
+        "female": "jest skazana",
+        "neutral": "jest skazane"
+      },
+      "plural": {
+        "male": "są skazani",
+        "female": "są skazane"
+      }
+    },
+    {
+      "phrase": "i nie {} się niczym więcej",
+      "singular": {
+        "male": "przejmue",
+        "female": "przejmuje",
+        "neutral": "przejmuje"
+      },
+      "plural": {
+        "male": "przejmują",
+        "female": "przejmują"
+      }
+    },
+    "chociaż każdy wie, że tak nie będzie",
+    "lecz końca nie widać",
+    "i nikt z tym nic nie robi",
+    "o czym się nie mówi",
+    "co kilka lat temu nikomu by nie przyszło do głowy"
+  ]
+}
